@@ -9,7 +9,7 @@ namespace TestWeb
     public class Fruits
     {
         public double  appPrice = 0.45;
-        public double  orgPrice = 0.55;
+        public double  orgPrice = 0.65;
 
         public string fruitName;
         public int fruitQty;
